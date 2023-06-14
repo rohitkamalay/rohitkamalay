@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Rohit Kamalay</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rohit Kamalay <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkamalay&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkamalay" /> </p>
 
